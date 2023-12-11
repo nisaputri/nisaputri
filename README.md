@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @nisaputri
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently studying Information Science focusing in Data Science
 
 
 <!---
